@@ -19,4 +19,8 @@ Larches grow old, but not alone. Like most forest trees, the Larch is part of a 
 	   caption="This compares two images of the Tamarack tree in the summer and the winter.">
 <param ve-compare
 	   src="wc:Larix_decidua_Modrzew_europejski_2023-06-25_01.jpg">
+
+Several Western botanists who traveled the globe attempted to document and classify all species of Larch trees, including the Tamarack. North America was of particular interest, and between 1768 and 1900, several scientists published taxonomies of the trees native to the continent. Such publications, however, seldom included information about traditional ecological knowledge or Indigenous knowledge about plants.
+<param ve-ifram
+	   src="https://archive.org/details/northamericansyl03mich/page/n6/mode/1up">
 	   
