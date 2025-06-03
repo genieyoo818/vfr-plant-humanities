@@ -1,8 +1,8 @@
+<a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
-I want to italicize this ***word***.
+<param ve-config 
+title="What We Know Now: Tracing the Tamarack"    source-image="https://upload.wikimedia.org/wikipedia/commons/4/4b/Crowns_of_Siberian_larch_in_winter.jpg"   banner="https://upload.wikimedia.org/wikipedia/commons/4/4b/Crowns_of_Siberian_larch_in_winter.jpg" 
+height=100
+author="Hannah Hardenbergh"
+layout="vertical">
 
-___I want to italicize this word.___
-
->If there is to be multispecies ecojustice, which can also embrace diverse human people, it is high time that feminists exercise leadership in imagination, theory, and action to unravel the ties of both genealogy and kin, and kin and species.
-
-Let's read the [Tamarack essay](Q734085) on the [Plant Humanities Lab](https://lab.plant-humanities.org/).
